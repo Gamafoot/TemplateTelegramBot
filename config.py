@@ -1,2 +1,1 @@
-TOKEN = '5836039263:AAHMTKngB0CL8nXevNqOtM_IeCxJ8U5ewjk'
-DATABASE_URL = 'sqlite:///db.db'
+TOKEN = ''
